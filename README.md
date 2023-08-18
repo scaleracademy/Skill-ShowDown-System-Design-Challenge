@@ -7,7 +7,8 @@
 
 ## How to participate?
 Join the Scaler Discord #system-design-breakdown Channel. 
-When you start the challenge, create a Github Issue on this repository by providing your name, and the date when you start the challenge. Keep sharing your progress on the issue. Once you have made the submission, you can close this Github issue. 
+
+When you start the challenge, create a Github Issue on this repository (https://github.com/scaleracademy/Skill-ShowDown-System-Design-Challenge/issues/new) by providing your name, and the date when you start the challenge in the description of the issue. Keep sharing your progress on the issue. Once you have made the submission, you can close this GitHub issue you created. 
 
 ## What is TicTacToe?
 
