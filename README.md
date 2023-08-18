@@ -5,9 +5,13 @@
 
 # TicTacToe
 
+## How to participate?
+Join the Scaler Discord #system-design-breakdown Channel. 
+When you start the challenge, create a Github Issue on this repository by providing your name, and the date when you start the challenge. Keep sharing your progress on the issue. Once you have made the submission, you can close this Github issue. 
+
 ## What is TicTacToe?
 
-TicTacToe is a 2 player game played on a 3 x 3 board. Each player is allotted a symbol (one X and one O). Initially, the board is empty. Alternatively, each player takes a turn and puts their symbol at any empty slot. The first player to get their symbol over a complete row OR a complete column OR a diagonal wins. You can play the game within Google Search by just searching for “tictactoe”!
+TicTacToe is a 2-player game played on a 3 x 3 board. Each player is allotted a symbol (one X and one O). Initially, the board is empty. Alternatively, each player takes a turn and puts their symbol at any empty slot. The first player to get their symbol over a complete row OR a complete column OR a diagonal wins. You can play the game within Google Search by just searching for “tic-tac-toe”!
 
 ![TicTacToe Image](https://github.com/shivscaler/Lecture2_Asgn2_EditorialRepo/assets/129844674/1b355805-caca-4c9a-a22f-0ee44d61dc32)
 
