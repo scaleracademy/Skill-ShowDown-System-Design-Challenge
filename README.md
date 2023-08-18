@@ -11,6 +11,10 @@ TicTacToe is a 2 player game played on a 3 x 3 board. Each player is allotted a 
 
 ![TicTacToe Image](https://github.com/shivscaler/Lecture2_Asgn2_EditorialRepo/assets/129844674/1b355805-caca-4c9a-a22f-0ee44d61dc32)
 
+
+## Problem Statement
+Create a Low-Level Design for a common TicTacToe game with the following constraints as shared. 
+
 ## Problem Requirements
 
 - Board can be of any NxN size.
